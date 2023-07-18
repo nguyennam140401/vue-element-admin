@@ -1,9 +1,6 @@
 pipeline {
     agent any
 
-    environment {
-        DOCKER_REGISTRY_CREDENTIALS = credentials('your-credentials-id')
-    }
 
     stages {
         stage('Hello') {
