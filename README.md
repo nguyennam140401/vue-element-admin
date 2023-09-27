@@ -29,7 +29,7 @@
 English | [简体中文](./README.zh-CN.md) | [日本語](./README.ja.md) | [Spanish](./README.es.md)
 
 <p align="center">
-  <b>SPONSORED BY</b>
+  <b>SPONSORED BY E</b>
 </p>
 <table align="center" cellspacing="0" cellpadding="0">
   <tbody>
